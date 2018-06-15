@@ -1,0 +1,10 @@
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/obj/Debug/netcoreapp2.0/loginRegistration.csproj.CoreCompileInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/obj/Debug/netcoreapp2.0/loginRegistration.AssemblyInfoInputs.cache
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/obj/Debug/netcoreapp2.0/loginRegistration.AssemblyInfo.cs
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/bin/Debug/netcoreapp2.0/loginRegistration.deps.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/bin/Debug/netcoreapp2.0/loginRegistration.runtimeconfig.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/bin/Debug/netcoreapp2.0/loginRegistration.runtimeconfig.dev.json
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/bin/Debug/netcoreapp2.0/loginRegistration.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/bin/Debug/netcoreapp2.0/loginRegistration.pdb
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/obj/Debug/netcoreapp2.0/loginRegistration.dll
+/Users/heribertomiguel/Documents/CODINGDOJOPLATFORM/C#Assignments/loginRegistration/obj/Debug/netcoreapp2.0/loginRegistration.pdb
